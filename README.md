@@ -3,7 +3,7 @@ A simple 8-bit RISC cpu that runs self-defined assemble language. Bult with veri
 
 ## Basic registers and their addresses
 |	Register Name	|	Address	|
-|	--				|	--		|
+|	-------------	|	-------	|
 |	AX				|	00		|
 |	BX				|	01		|
 |	CX				|	10		|
