@@ -15,14 +15,18 @@ Contact with me: alanzjl@126.com
 |	DX				|	11		|
 
 ## Arithmetic Logic Unit (ALU) Instructions
+
 *Addition:*
+
 |	Code		|	Function		|
 |	--------	|	--------------	|
 |	1000 RD xx	|	RD -> RD + 1	|
 |	1001 RD xx	|	RD -> RD - 1	|
 |	1010 RD RS	|	RD -> RD + RS	|
 |	1011 RD RS	|	RD -> RD - RS	|
+
 *Multiplication:*
+
 |	Code		|	Function								|
 |	--------	|	--------------							|
 |	0100 RD RS	|	(*unsigned*)	RD -> RD[3:0] * RS[3:0]	|
