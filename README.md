@@ -2,7 +2,7 @@
 A simple 8-bit RISC cpu that runs self-defined assemble language. Built with verilog, tested on Xilinx XC6XLS45 (Spartan 6). Compilter is written in python, and commands are sent via UART.
 
 ## Author
-This work is finished by Alan Zhao, you can visit [my homepage](http://alanzjl.com) for more information about this project.
+This work was finished by Jialiang Zhao, you can visit [my homepage](http://alanzjl.com) for more information about this project.
 
 Contact with me: alanzjl@126.com
 
